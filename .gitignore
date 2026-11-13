@@ -1,0 +1,20 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# PostgreSQL local backups and logs
+*.dump
+*.backup
+*.log
+
+# Local environment / credentials
+.env
+.env.*
+!.env.example
+
+# Python / temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/

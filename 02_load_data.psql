@@ -1,0 +1,17 @@
+-- Load the supplied CSV datasets into the PostgreSQL tables.
+-- Run this script from the repository root:
+--   psql -d finance_analytics -f sql/02_load_data.psql
+-- Run once against empty project tables. The CSV header row is skipped;
+-- the explicit column lists map the source fields by their file order.
+
+\set ON_ERROR_STOP on
+
+-- The Customers CSV contains dates such as 4/6/1979 and 3/15/2018.
+SET datestyle TO 'MDY';
+
+\copy branches (branch_id, branch_name, city, manager_name) FROM 'data/branches.csv' WITH (FORMAT csv, HEADER true, ENCODING 'UTF8');
+\copy customers (customer_id, first_name, last_name, city, country, date_of_birth, join_date, annual_income) FROM 'data/customers.csv' WITH (FORMAT csv, HEADER true, ENCODING 'UTF8');
+\copy accounts (account_id, customer_id, branch_id, account_type, balance, open_date) FROM 'data/accounts.csv' WITH (FORMAT csv, HEADER true, ENCODING 'UTF8');
+\copy transactions (transaction_id, account_id, transaction_date, transaction_type, amount, description) FROM 'data/transactions.csv' WITH (FORMAT csv, HEADER true, ENCODING 'UTF8');
+\copy loans (loan_id, customer_id, loan_type, loan_amount, interest_rate, loan_start_date, loan_status) FROM 'data/loans.csv' WITH (FORMAT csv, HEADER true, ENCODING 'UTF8');
+\copy loan_payments (payment_id, loan_id, payment_date, payment_amount, payment_status) FROM 'data/loan_payments.csv' WITH (FORMAT csv, HEADER true, ENCODING 'UTF8');

@@ -1,0 +1,258 @@
+TransactionID,AccountID,TransactionDate,TransactionType,Amount,Description
+5001,1001,2026-08-14,Deposit,6102.95,Cash Deposit
+5002,1001,2026-05-27,Deposit,2248.88,Salary
+5003,1001,2026-01-19,Deposit,3621.55,Refund
+5004,1001,2026-05-03,Withdrawal,515.45,Insurance
+5005,1001,2026-06-06,Deposit,3854.97,Investment Income
+5006,1001,2026-07-14,Transfer,4201.44,Investment Transfer
+5007,1002,2026-04-07,Deposit,4661.45,Investment Income
+5008,1002,2026-03-06,Transfer,2196.24,Investment Transfer
+5009,1002,2026-05-23,Deposit,1017.79,Bonus
+5010,1002,2026-07-02,Withdrawal,142.15,Mortgage
+5011,1002,2026-01-10,Deposit,1277.44,Cash Deposit
+5012,1003,2026-05-06,Withdrawal,977.71,Shopping
+5013,1003,2026-08-15,Withdrawal,2347.93,Insurance
+5014,1003,2026-05-03,Withdrawal,868.43,Travel
+5015,1004,2026-04-02,Deposit,4590.3,Investment Income
+5016,1004,2026-01-15,Deposit,5737.49,Salary
+5017,1004,2026-07-25,Deposit,4978,Salary
+5018,1004,2026-04-26,Deposit,1965.17,Bonus
+5019,1005,2026-08-13,Deposit,3490.72,Salary
+5020,1005,2026-05-22,Withdrawal,2772.96,Rent
+5021,1005,2026-08-04,Deposit,6495.98,Salary
+5022,1005,2026-08-07,Transfer,4190.74,Investment Transfer
+5023,1005,2026-02-25,Deposit,3619.59,Investment Income
+5024,1005,2026-01-02,Transfer,991.48,Internal Transfer
+5025,1006,2026-03-16,Transfer,3597.54,Internal Transfer
+5026,1006,2026-07-21,Withdrawal,2369.96,Insurance
+5027,1006,2026-02-19,Withdrawal,1618.95,Utilities
+5028,1006,2026-07-09,Deposit,1227.51,Refund
+5029,1006,2026-01-14,Deposit,2656.19,Refund
+5030,1007,2026-02-11,Withdrawal,2746.38,Rent
+5031,1007,2026-02-18,Transfer,636.47,Savings Transfer
+5032,1007,2026-03-03,Withdrawal,2199.65,Travel
+5033,1007,2026-03-06,Deposit,5885.61,Refund
+5034,1007,2026-04-19,Withdrawal,2027.7,Mortgage
+5035,1007,2026-03-09,Withdrawal,1730.17,Shopping
+5036,1008,2026-06-22,Deposit,3116.4,Cash Deposit
+5037,1008,2026-01-20,Withdrawal,2981.38,Rent
+5038,1008,2026-01-27,Withdrawal,3195.24,Rent
+5039,1008,2026-02-04,Withdrawal,1678.12,Utilities
+5040,1008,2026-04-06,Transfer,3992.94,Family Transfer
+5041,1009,2026-03-20,Withdrawal,1793.11,Insurance
+5042,1009,2026-05-17,Transfer,3689.82,Savings Transfer
+5043,1009,2026-06-20,Withdrawal,1828.18,Rent
+5044,1009,2026-01-31,Transfer,864.02,Savings Transfer
+5045,1010,2026-07-04,Deposit,4287.05,Cash Deposit
+5046,1010,2026-03-10,Deposit,4451.73,Refund
+5047,1010,2026-08-06,Withdrawal,2908.44,Rent
+5048,1010,2026-03-13,Deposit,3272.02,Salary
+5049,1011,2026-03-10,Deposit,1632.59,Bonus
+5050,1011,2026-04-21,Withdrawal,1819.18,Insurance
+5051,1011,2026-08-16,Deposit,1321.37,Bonus
+5052,1012,2026-02-08,Transfer,2746.54,Internal Transfer
+5053,1012,2026-08-20,Deposit,2626.25,Salary
+5054,1012,2026-03-06,Transfer,1182.32,Savings Transfer
+5055,1013,2026-04-16,Withdrawal,2843.13,Insurance
+5056,1013,2026-03-03,Withdrawal,2971.35,Shopping
+5057,1013,2026-08-15,Transfer,3705.24,Internal Transfer
+5058,1013,2026-03-28,Deposit,5024.76,Investment Income
+5059,1013,2026-07-28,Transfer,3929.07,Investment Transfer
+5060,1014,2026-04-09,Deposit,4827.16,Salary
+5061,1014,2026-07-30,Transfer,1234.22,Internal Transfer
+5062,1014,2026-08-13,Deposit,5495,Bonus
+5063,1014,2026-04-14,Deposit,4596.19,Cash Deposit
+5064,1014,2026-07-18,Deposit,1288.76,Cash Deposit
+5065,1015,2026-08-05,Withdrawal,1351.01,Insurance
+5066,1015,2026-08-14,Deposit,1054.56,Cash Deposit
+5067,1015,2026-03-10,Deposit,6290.19,Salary
+5068,1015,2026-07-07,Deposit,3333.56,Cash Deposit
+5069,1015,2026-01-31,Withdrawal,3151.45,Travel
+5070,1016,2026-01-02,Deposit,4869.2,Refund
+5071,1016,2026-07-05,Transfer,2561.5,Investment Transfer
+5072,1016,2026-06-21,Deposit,1291.85,Cash Deposit
+5073,1016,2026-02-02,Withdrawal,2163.23,Mortgage
+5074,1017,2026-03-26,Withdrawal,2174.03,Travel
+5075,1017,2026-02-20,Withdrawal,1827.59,Travel
+5076,1017,2026-07-12,Withdrawal,1287.77,Shopping
+5077,1017,2026-05-22,Withdrawal,1046.93,Rent
+5078,1017,2026-07-22,Deposit,2077.02,Refund
+5079,1018,2026-02-25,Withdrawal,1481.85,Insurance
+5080,1018,2026-07-24,Withdrawal,2895.64,Mortgage
+5081,1018,2026-05-13,Deposit,1374.86,Refund
+5082,1018,2026-07-13,Deposit,5483.17,Bonus
+5083,1018,2026-02-21,Withdrawal,811.89,Shopping
+5084,1019,2026-06-07,Deposit,6410.04,Salary
+5085,1019,2026-05-29,Withdrawal,2849.3,Shopping
+5086,1019,2026-04-14,Withdrawal,1302.65,Shopping
+5087,1020,2026-07-13,Withdrawal,137.08,Rent
+5088,1020,2026-07-26,Withdrawal,794.03,Mortgage
+5089,1020,2026-03-06,Withdrawal,274.67,Rent
+5090,1020,2026-06-21,Withdrawal,2588.36,Insurance
+5091,1021,2026-06-07,Transfer,4043.99,Internal Transfer
+5092,1021,2026-08-19,Transfer,2601.06,Investment Transfer
+5093,1021,2026-03-09,Withdrawal,1582,Shopping
+5094,1021,2026-07-20,Transfer,1464.71,Internal Transfer
+5095,1021,2026-01-21,Withdrawal,965.76,Mortgage
+5096,1022,2026-08-18,Deposit,2780.75,Refund
+5097,1022,2026-04-10,Deposit,1744.65,Bonus
+5098,1022,2026-04-16,Withdrawal,317.82,Utilities
+5099,1022,2026-02-23,Withdrawal,1400.58,Travel
+5100,1022,2026-06-29,Deposit,5210.86,Salary
+5101,1023,2026-03-19,Withdrawal,3023.64,Travel
+5102,1023,2026-04-19,Transfer,4304.41,Investment Transfer
+5103,1023,2026-05-06,Withdrawal,960.64,Rent
+5104,1023,2026-07-25,Deposit,4645.69,Investment Income
+5105,1023,2026-08-25,Withdrawal,2708.76,Shopping
+5106,1023,2026-08-22,Transfer,2543.32,Internal Transfer
+5107,1024,2026-08-11,Deposit,3300.23,Investment Income
+5108,1024,2026-03-26,Deposit,2356.88,Bonus
+5109,1024,2026-08-15,Withdrawal,1159.5,Travel
+5110,1025,2026-03-07,Withdrawal,2682.33,Rent
+5111,1025,2026-01-15,Withdrawal,2426.99,Utilities
+5112,1025,2026-06-17,Deposit,1284.26,Salary
+5113,1025,2026-02-22,Withdrawal,3044.8,Rent
+5114,1025,2026-05-03,Withdrawal,854.72,Mortgage
+5115,1026,2026-06-30,Withdrawal,791.33,Utilities
+5116,1026,2026-06-06,Withdrawal,636.79,Mortgage
+5117,1026,2026-02-12,Withdrawal,2515.6,Utilities
+5118,1027,2026-05-29,Withdrawal,2980.97,Mortgage
+5119,1027,2026-07-04,Transfer,1876.29,Investment Transfer
+5120,1027,2026-06-11,Deposit,4767.44,Bonus
+5121,1028,2026-06-26,Withdrawal,1048.87,Insurance
+5122,1028,2026-05-26,Transfer,3644.15,Savings Transfer
+5123,1028,2026-04-06,Deposit,3298.92,Salary
+5124,1029,2026-05-07,Deposit,3252.33,Salary
+5125,1029,2026-08-18,Withdrawal,1235.54,Travel
+5126,1029,2026-07-08,Withdrawal,1461.3,Insurance
+5127,1029,2026-07-27,Transfer,1434.35,Internal Transfer
+5128,1029,2026-06-02,Withdrawal,2663.26,Utilities
+5129,1030,2026-01-24,Transfer,3789.07,Family Transfer
+5130,1030,2026-04-30,Transfer,1324.23,Internal Transfer
+5131,1030,2026-03-26,Deposit,3668.12,Bonus
+5132,1030,2026-03-09,Withdrawal,1212.86,Utilities
+5133,1030,2026-08-15,Deposit,4238.47,Cash Deposit
+5134,1031,2026-03-04,Withdrawal,708.45,Mortgage
+5135,1031,2026-03-04,Deposit,4008.99,Investment Income
+5136,1031,2026-07-23,Withdrawal,1631.73,Rent
+5137,1032,2026-03-05,Deposit,3164.65,Cash Deposit
+5138,1032,2026-05-23,Withdrawal,1256.58,Insurance
+5139,1032,2026-05-22,Deposit,6481.14,Cash Deposit
+5140,1033,2026-03-07,Withdrawal,954.42,Shopping
+5141,1033,2026-02-01,Deposit,1978.47,Refund
+5142,1033,2026-02-20,Transfer,3198.69,Investment Transfer
+5143,1033,2026-06-01,Withdrawal,971.62,Insurance
+5144,1033,2026-08-03,Withdrawal,3139.97,Shopping
+5145,1034,2026-01-05,Deposit,1904.87,Refund
+5146,1034,2026-01-15,Deposit,1154.89,Refund
+5147,1034,2026-06-14,Deposit,6186.9,Investment Income
+5148,1034,2026-03-15,Deposit,968.69,Investment Income
+5149,1034,2026-01-15,Withdrawal,1169.37,Utilities
+5150,1035,2026-05-07,Deposit,1265.92,Salary
+5151,1035,2026-02-09,Withdrawal,2234.27,Shopping
+5152,1035,2026-01-23,Transfer,4286.33,Investment Transfer
+5153,1035,2026-06-06,Deposit,5180.88,Refund
+5154,1035,2026-05-15,Withdrawal,815.12,Travel
+5155,1035,2026-08-10,Withdrawal,1483.58,Insurance
+5156,1036,2026-06-07,Deposit,4377.75,Salary
+5157,1036,2026-02-25,Transfer,1172.71,Family Transfer
+5158,1036,2026-02-15,Withdrawal,603.74,Insurance
+5159,1036,2026-04-27,Deposit,914.98,Refund
+5160,1036,2026-03-16,Withdrawal,220.53,Mortgage
+5161,1036,2026-01-20,Deposit,5713.8,Bonus
+5162,1037,2026-06-20,Withdrawal,2045.18,Shopping
+5163,1037,2026-06-16,Withdrawal,1797.25,Shopping
+5164,1037,2026-01-20,Transfer,3771.85,Savings Transfer
+5165,1037,2026-07-12,Deposit,2622.63,Refund
+5166,1037,2026-05-01,Transfer,2144.44,Family Transfer
+5167,1038,2026-05-08,Transfer,2401.98,Internal Transfer
+5168,1038,2026-04-22,Deposit,1123.22,Cash Deposit
+5169,1038,2026-03-01,Withdrawal,199.66,Mortgage
+5170,1038,2026-01-07,Transfer,2715.84,Family Transfer
+5171,1038,2026-02-15,Withdrawal,2470.38,Travel
+5172,1038,2026-03-14,Withdrawal,1482.07,Shopping
+5173,1039,2026-01-25,Withdrawal,1634.52,Travel
+5174,1039,2026-06-22,Deposit,2766.53,Salary
+5175,1039,2026-06-28,Transfer,1685.18,Internal Transfer
+5176,1039,2026-07-29,Deposit,6193.08,Refund
+5177,1039,2026-03-07,Deposit,1393.13,Cash Deposit
+5178,1039,2026-08-11,Deposit,5226.27,Refund
+5179,1040,2026-04-17,Withdrawal,1791.19,Rent
+5180,1040,2026-07-14,Deposit,2925.96,Investment Income
+5181,1040,2026-02-23,Withdrawal,2460.77,Utilities
+5182,1041,2026-06-29,Transfer,2140.09,Internal Transfer
+5183,1041,2026-06-06,Deposit,6349.62,Bonus
+5184,1041,2026-01-05,Withdrawal,1077.11,Insurance
+5185,1041,2026-08-05,Deposit,2158.32,Salary
+5186,1042,2026-02-10,Transfer,3020.38,Internal Transfer
+5187,1042,2026-07-01,Transfer,1525.82,Family Transfer
+5188,1042,2026-05-02,Deposit,3602,Bonus
+5189,1042,2026-02-19,Withdrawal,565.5,Insurance
+5190,1042,2026-08-11,Withdrawal,2828.32,Rent
+5191,1042,2026-04-18,Deposit,5324.03,Cash Deposit
+5192,1043,2026-03-19,Transfer,1487.92,Internal Transfer
+5193,1043,2026-05-05,Transfer,2175.5,Family Transfer
+5194,1043,2026-04-08,Deposit,5172.09,Investment Income
+5195,1043,2026-06-29,Transfer,3952.33,Investment Transfer
+5196,1043,2026-07-19,Withdrawal,839.37,Travel
+5197,1044,2026-08-23,Deposit,3548.67,Investment Income
+5198,1044,2026-07-31,Deposit,4616.66,Bonus
+5199,1044,2026-05-10,Withdrawal,234.02,Insurance
+5200,1045,2026-04-24,Transfer,3971.6,Savings Transfer
+5201,1045,2026-07-05,Withdrawal,1527.34,Shopping
+5202,1045,2026-02-10,Deposit,4566.78,Salary
+5203,1045,2026-03-29,Withdrawal,3105.15,Insurance
+5204,1045,2026-08-08,Withdrawal,2121.5,Utilities
+5205,1046,2026-08-17,Transfer,2932.56,Internal Transfer
+5206,1046,2026-01-19,Transfer,450.78,Investment Transfer
+5207,1046,2026-03-01,Withdrawal,2956.46,Mortgage
+5208,1046,2026-07-15,Deposit,6378.69,Salary
+5209,1046,2026-08-21,Withdrawal,2257.52,Rent
+5210,1046,2026-03-18,Deposit,5358.4,Cash Deposit
+5211,1047,2026-04-17,Withdrawal,872.13,Insurance
+5212,1047,2026-02-15,Withdrawal,674.58,Rent
+5213,1047,2026-06-25,Withdrawal,1298.24,Shopping
+5214,1047,2026-03-02,Withdrawal,1916.12,Travel
+5215,1047,2026-06-21,Withdrawal,1535.48,Rent
+5216,1048,2026-02-11,Transfer,3145.97,Savings Transfer
+5217,1048,2026-06-01,Withdrawal,1184.34,Utilities
+5218,1048,2026-03-07,Withdrawal,1426.87,Travel
+5219,1048,2026-04-10,Transfer,1136.71,Internal Transfer
+5220,1048,2026-04-03,Deposit,3035.64,Refund
+5221,1048,2026-01-07,Deposit,4815.96,Investment Income
+5222,1049,2026-07-20,Deposit,5744.38,Salary
+5223,1049,2026-08-03,Transfer,3429.72,Family Transfer
+5224,1049,2026-07-26,Withdrawal,828.76,Utilities
+5225,1049,2026-03-07,Deposit,1964.74,Bonus
+5226,1049,2026-06-16,Withdrawal,2902.48,Rent
+5227,1050,2026-04-05,Withdrawal,222.76,Mortgage
+5228,1050,2026-03-26,Deposit,5993.92,Investment Income
+5229,1050,2026-05-20,Deposit,1640.09,Cash Deposit
+5230,1050,2026-08-02,Withdrawal,2933.54,Shopping
+5231,1050,2026-05-05,Deposit,5518.26,Cash Deposit
+5232,1051,2026-01-21,Transfer,2266.99,Investment Transfer
+5233,1051,2026-06-24,Withdrawal,814.89,Mortgage
+5234,1051,2026-08-06,Withdrawal,1344.03,Insurance
+5235,1051,2026-01-05,Deposit,5327.82,Cash Deposit
+5236,1051,2026-06-23,Withdrawal,1520.74,Mortgage
+5237,1052,2026-04-07,Withdrawal,2653.05,Rent
+5238,1052,2026-06-09,Withdrawal,1572.15,Insurance
+5239,1052,2026-06-16,Deposit,4316.46,Salary
+5240,1052,2026-06-30,Withdrawal,1549.94,Utilities
+5241,1052,2026-01-13,Withdrawal,479.36,Rent
+5242,1053,2026-03-03,Transfer,787.71,Investment Transfer
+5243,1053,2026-07-11,Deposit,2977.66,Refund
+5244,1053,2026-02-10,Deposit,5056.71,Investment Income
+5245,1053,2026-06-08,Withdrawal,2687.77,Travel
+5246,1053,2026-06-27,Transfer,1474.91,Family Transfer
+5247,1054,2026-08-08,Withdrawal,3047.71,Utilities
+5248,1054,2026-05-21,Deposit,4739.81,Cash Deposit
+5249,1054,2026-02-02,Deposit,2444.94,Investment Income
+5250,1054,2026-06-14,Deposit,2087.79,Refund
+5251,1055,2026-02-03,Deposit,2767.65,Refund
+5252,1055,2026-05-23,Deposit,5546.98,Bonus
+5253,1055,2026-03-02,Withdrawal,2624.2,Utilities
+5254,1056,2026-03-13,Withdrawal,1955.62,Shopping
+5255,1056,2026-07-25,Transfer,2568.9,Investment Transfer
+5256,1056,2026-02-04,Deposit,5752.11,Salary
+5257,1056,2026-06-01,Deposit,5315.22,Cash Deposit
